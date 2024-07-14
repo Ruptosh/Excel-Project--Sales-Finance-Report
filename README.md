@@ -1,5 +1,5 @@
 # Excel-Project-Sales-Finance-Report
-![alt text] (https://github.com/Ruptosh/Excel-Project-Sales-Finance-Report/blob/main/unnamed.png)
+![unnamed](https://github.com/user-attachments/assets/d44b6c0c-8009-4485-94d0-297953761a08)
 
 ## Sales Report :
 
