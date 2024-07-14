@@ -5,7 +5,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/Ruptosh/Excel-Project--Sales-Finance-Report/blob/main/AtliQ%20Hardwares%20Sales%20Report.pdf)_ 
+    **1.** Create a _[AtliQ Hardwares Sales Report](https://github.com/Ruptosh/Excel-Project--Sales-Finance-Report/blob/main/AtliQ%20Hardwares%20Sales%20Report.pdf)_ 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -19,7 +19,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Ruptosh/Excel-Project--Sales-Finance-Report/blob/main/AtliQ%20Hardwares%20Finance%20Report.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[AtliQ Hardwares Finance Report](https://github.com/Ruptosh/Excel-Project--Sales-Finance-Report/blob/main/AtliQ%20Hardwares%20Finance%20Report.pdf)_ 
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
